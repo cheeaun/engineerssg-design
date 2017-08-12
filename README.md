@@ -9,7 +9,7 @@ Engineers.SG logo design
 Two directories:
 
 - `sources`: source artwork files, made with [Affinity Designer](https://affinity.serif.com/en-us/designer/).
-- `exports`: files exported into `SVG` format
+- `exports`: files exported into `SVG` and `PNG` formats
 
 Dribbbles: <https://dribbble.com/cheeaun/buckets/556426-Engineers-SG-logo>
 
