@@ -1,6 +1,8 @@
 Engineers.SG logo design
 ===
 
+![](exports/engineerssg-logo-text.png)
+
 > Logo for [Engineers.SG](https://engineers.sg/)
 
 - Font: [Alma Mono](http://almamono.com/)
